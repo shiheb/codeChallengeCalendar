@@ -1,0 +1,95 @@
+{
+    "/home": {
+        "get": 
+[
+                {
+                    "_id":1,
+                    "name": "Birthday of Sami",
+                    "startDateTime":"\"2019-07-13T08:00:00.782Z\"", 
+                    "endDateTime":"\"2019-07-13T10:00:00.782Z\"", 
+                    "classes": "color-1 color-4"
+                },
+                {
+                   "_id":2,
+                    "name": "Birthday of Amir",
+                    "startDateTime":"\"2019-07-14T09:00:00.782Z\"", 
+                    "endDateTime":"\"2019-07-14T11:00:00.782Z\"", 
+                    "classes": "color-1 color-4"
+                },
+                {
+                   "_id":3,
+                    "name": "Birthday of Mustapha",
+                    "startDateTime":"\"2019-07-15T08:00:00.782Z\"", 
+                    "endDateTime":"\"2019-07-15T10:00:00.782Z\"", 
+                    "classes": "color-3"
+                },
+                {
+                   "_id":4,
+                    "name": "Birthday of Manon",
+                    "startDateTime":"\"2019-07-16T10:00:00.782Z\"", 
+                    "endDateTime":"\"2019-07-16T12:00:00.782Z\"", 
+                    "classes": "color-5"
+                },
+                {
+                   "_id":5,
+                    "name": "Birthday of Mariana",
+                    "startDateTime":"\"2019-07-17T08:00:00.782Z\"", 
+                    "endDateTime":"\"2019-07-17T10:00:00.782Z\"", 
+                    "classes": "color-1 color-4"
+                },
+                {
+                   "_id":6,
+                    "name": "Birthday of Miranda",
+                    "startDateTime":"\"2019-07-18T09:00:00.782Z\"", 
+                    "endDateTime":"\"2019-07-18T11:00:00.782Z\"", 
+                    "classes": "color-2"
+                }
+            ]
+        ,
+        "post": 
+[
+                {
+                    "_id":1,
+                    "name": "Birthday of Sami",
+                    "startDateTime":"\"2019-07-13T08:00:00.782Z\"", 
+                    "endDateTime":"\"2019-07-13T10:00:00.782Z\"", 
+                    "classes": "color-1 color-4"
+                },
+                {
+                   "_id":2,
+                    "name": "Birthday of Amir",
+                    "startDateTime":"\"2019-07-14T09:00:00.782Z\"", 
+                    "endDateTime":"\"2019-07-14T11:00:00.782Z\"", 
+                    "classes": "color-1 color-4"
+                },
+                {
+                   "_id":3,
+                    "name": "Birthday of Mustapha",
+                    "startDateTime":"\"2019-07-15T08:00:00.782Z\"", 
+                    "endDateTime":"\"2019-07-15T10:00:00.782Z\"", 
+                    "classes": "color-3"
+                },
+                {
+                   "_id":4,
+                    "name": "Birthday of Manon",
+                    "startDateTime":"\"2019-07-16T10:00:00.782Z\"", 
+                    "endDateTime":"\"2019-07-16T12:00:00.782Z\"", 
+                    "classes": "color-5"
+                },
+                {
+                   "_id":5,
+                    "name": "Birthday of Mariana",
+                    "startDateTime":"\"2019-07-17T08:00:00.782Z\"", 
+                    "endDateTime":"\"2019-07-17T10:00:00.782Z\"", 
+                    "classes": "color-1 color-4"
+                },
+                {
+                   "_id":6,
+                    "name": "Birthday of Miranda",
+                    "startDateTime":"\"2019-07-18T09:00:00.782Z\"", 
+                    "endDateTime":"\"2019-07-18T11:00:00.782Z\"", 
+                    "classes": "color-2"
+                }
+            ]
+    }
+}

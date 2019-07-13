@@ -1,0 +1,28 @@
+
+class App2 extends React.Component {
+
+    constructor(props) {
+
+      super(props);
+      this.state = {
+        items: [],
+        isLoaded: false,
+      }
+
+    }
+
+
+
+
+    render(){
+
+      const newItems =   {items.map((item) => (
+
+
+        item.name = {item.name};
+        item.endDateTime = new Date({item.endDateTime});
+        item.startDateTime =new Date( {item.startDateTime});
+        item.classes = {item.classes};
+
+
+      )};
